@@ -1,0 +1,1 @@
+# install-software-for-centos7.6
